@@ -1,0 +1,28 @@
+Date,Product,Category,Quantity,Price,Total
+2024-01-05,Burger,Food,10,120,1200
+2024-01-06,French Fries,Food,15,80,1200
+2024-01-07,Chicken Wings,Food,8,150,1200
+2024-02-02,Coke,Drinks,20,40,800
+2024-02-10,Pepsi,Drinks,18,35,630
+2024-03-12,Ice Cream,Dessert,12,60,720
+2024-03-15,Burger,Food,14,120,1680
+2024-03-18,Chicken Wings,Food,10,150,1500
+2024-04-03,Coke,Drinks,25,40,1000
+2024-04-10,Ice Cream,Dessert,20,60,1200
+2024-04-18,Burger,Food,9,120,1080
+2024-05-05,Pepsi,Drinks,30,35,1050
+2024-05-16,French Fries,Food,22,80,1760
+2024-06-03,Ice Cream,Dessert,15,60,900
+2024-06-20,Burger,Food,16,120,1920
+2024-07-01,Chicken Wings,Food,11,150,1650
+2024-07-10,Coke,Drinks,28,40,1120
+2024-08-14,Pepsi,Drinks,26,35,910
+2024-08-20,French Fries,Food,18,80,1440
+2024-09-05,Ice Cream,Dessert,25,60,1500
+2024-09-18,Burger,Food,20,120,2400
+2024-10-11,Chicken Wings,Food,13,150,1950
+2024-10-22,Coke,Drinks,30,40,1200
+2024-11-04,Pepsi,Drinks,22,35,770
+2024-11-15,French Fries,Food,25,80,2000
+2024-12-09,Ice Cream,Dessert,18,60,1080
+2024-12-20,Burger,Food,23,120,2760
